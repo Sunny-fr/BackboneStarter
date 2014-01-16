@@ -1,4 +1,4 @@
-##pre-requisties
+### pre-requisties
 
 NODEJS 
 
@@ -8,36 +8,36 @@ BOWER -> npm bower -g
 
 
 
-## FIST BOWER
+### FIST BOWER
 
 $ bower install
 
 
 
-#DESCRIPTION
+#### DESCRIPTION
 it will download every depencies for your project
 check out bower.json file
 check also .bowerrc file to specify your own folder
 
-## GRUNT 
+### GRUNT 
 
 $ npm install 
 
-#DESCRIPTION
+#### DESCRIPTION
 it will download every depencies for your workflow
 check out package.json file
 then check Gruntfile.js to check your automated tasks
 
 
-## Start Coding !
+### Start Coding !
 
 $ grunt watch
 
 
-# MISC
+#### MISC
 Download "live reload" extension to your browser :)
 Packer Builder (optional, just a reminder) : -> app/build/build.sh
 
 
 
-##Folder Structure  Jeffrey Way !
+##### Folder Structure credits to  Jeffrey Way !
