@@ -3,6 +3,7 @@
 NODEJS 
 
 REQUIREJS -> npm install requirejs -g
+
 BOWER -> npm bower -g
 
 
