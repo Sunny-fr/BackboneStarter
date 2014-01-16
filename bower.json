@@ -1,0 +1,25 @@
+{
+
+	
+	"name": "BackboneStarter",
+	"description": "Kick start my Backbone project",
+	"version": "0.0.0",
+
+	
+	"dependencies": {
+		"requirejs": "latest",
+		"jquery": "latest",
+		"backbone-amd": "latest",
+		"underscore-amd": "latest",
+		"requirejs-text":"latest",
+		"bootstrap":"latest"
+		
+
+	},
+	
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"components"
+	]
+}
