@@ -1,3 +1,5 @@
+//my own quick presets :-)
+
 ### pre-requisties
 
 NODEJS 
