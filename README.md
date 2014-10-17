@@ -11,7 +11,7 @@ BOWER -> npm bower -g
 
 
 
-### FIST BOWER
+### FIRST BOWER
 
 $ bower install
 
